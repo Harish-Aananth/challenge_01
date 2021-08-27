@@ -1,0 +1,40 @@
+:root{
+
+/****colors****/
+
+/*primary*/
+--main_back: hsl(233,47%,7%);
+--card-back: hsl(244, 38%, 16%);
+--accent: hsl(277, 64%, 61%);
+
+/*Font color*/
+
+--main_head:hsl(0, 0%, 100%) ;
+--main-para:hsla(0, 0%, 100%, 0.75) ;
+--stat_head:hsla(0, 0%, 100%, 0.6) ;
+
+
+}
+
+
+/* .col-1{
+
+ 	border: 1px solid darkblue;
+}
+
+.row{
+	border: 1px solid darkblue;
+}
+
+
+
+.inner-row-2{
+	border: 1px solid darkblue;
+}
+
+.inner-row-1 h3,p{
+	border: 1px solid darkblue;
+}
+.likes{
+border: 1px solid darkblue;	
+} */
